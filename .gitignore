@@ -1,0 +1,5 @@
+# Prerequisites
+opencl-headers/
+ocl-icd-opencl-dev/
+*.o
+test_chord
