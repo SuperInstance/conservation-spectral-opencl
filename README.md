@@ -54,3 +54,5 @@ This is the **cross-vendor GPU** implementation. It implements the same conserva
 ## License
 
 MIT
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
